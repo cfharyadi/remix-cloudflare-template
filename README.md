@@ -6,7 +6,7 @@ Learn more about [Remix Stacks](https://remix.run/stacks).
 npx create-remix@latest --template edmundhung/remix-cloudflare-template
 ```
 
-What's included?
+What's included?.
 
 - Development with [Vite](https://vitejs.dev)
 - [Github Actions](https://github.com/features/actions) for CI/CD
